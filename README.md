@@ -202,7 +202,7 @@ Absolutely! Let’s break **Day 1** into a **step-by-step process** so you can b
 
 ---
 
-### **Day 1: Backend Setup & Database Design**
+# **Day 1: Backend Setup & Database Design**
 **Goal**: Set up the backend, design the database, and create REST API endpoints.
 
 ---
